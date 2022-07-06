@@ -24,11 +24,11 @@ def display_YOLO_trained_image(img,uploaded):
     if(uploaded):
         image1.header("YOLO trained uploaded image")
         image1.image(np.squeeze(result.render()),width=300)
-        image1.write(result.pandas().xyxy[0].name)
+        image1.write(result.pandas().xyxy[0].name.tolist())
     else:   
         image2.header("YOLO trained captured image")
         image2.image(np.squeeze(result.render()),width=300)
-        image2.write(result.pandas().xyxy[0].name)
+        image2.write(result.pandas().xyxy[0].name.tolist())
 
 if click_image:
     img = Image.open(click_image)
