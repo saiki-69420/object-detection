@@ -1,6 +1,6 @@
 # object-detection
 
-Implementing object detection models on a fashion products dataset : https://www.kaggle.com/datasets/nguyngiabol/colorful-fashion-dataset-for-object-detection
+Implementing object detection models on a fashion products dataset : https://fashionpedia.github.io/home/
 
 1. YOLOv5 model trained on this dataset!! 
 
