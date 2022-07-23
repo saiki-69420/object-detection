@@ -9,5 +9,6 @@ Implementing object detection models on a fashion products dataset : https://fas
 
 4. Streamlit_demo is the python script for a web app of the YOLO trained model.
 5. Python script to convert coco annotations to yolo.
+6. F-RCNN model trained on this dataset!
 
 
