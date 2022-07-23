@@ -2,7 +2,9 @@
 
 Implementing object detection models on a fashion products dataset : https://fashionpedia.github.io/home/
 
-1. YOLOv5 model trained on this dataset!! 
+1. YOLOv5 model trained on this dataset!! We have trained 4 different models of YOLOv5 and chose the best out of them - yolo_new_2_5k.ipynb
+
+
 
 2. MMDetection model is incomplete and yet to be trained.
 3. dataset.json is the annotations file of this dataset in COCO format for running the MMDetection model.
