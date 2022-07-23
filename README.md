@@ -8,5 +8,6 @@ Implementing object detection models on a fashion products dataset : https://www
 3. dataset.json is the annotations file of this dataset in COCO format for running the MMDetection model.
 
 4. Streamlit_demo is the python script for a web app of the YOLO trained model.
+5. Python script to convert coco annotations to yolo.
 
 
